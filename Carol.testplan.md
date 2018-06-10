@@ -41,52 +41,55 @@ Andrioid 4.3 Nexus 7 (at least)
 
 * VPN server
 
-  
+
+
+
+
 
 ### Test Features
 
-
+----
 
 1. Private Tunnel
 
-​	(1.1) Log in 
+​	    (1.1) Log in 
 
-​		(1.1.a) Connect 
+​		    (1.1.a) Connect 
 
-​		(1.1.b) Disconnect 
+​	    	(1.1.b) Disconnect 
 
-​		(1.1.c) Choose VPN Gateway
+​    		(1.1.c) Choose VPN Gateway
 
-​		(1.1.d) Setting-VPN-protocal
+​	    	(1.1.d) Setting-VPN-protocal
 
-​		(1.1.e) Setting-VPN-timeout 
+​    		(1.1.e) Setting-VPN-timeout 
 
-​		(1.1.f) Log file 
+​		    (1.1.f) Log file 
 
-​		(1.1.g) Log out 
+​		    (1.1.g) Log out 
 
-​	(1.2) Register 
+​	    (1.2) Register 
 
-​	(1.3) Forget password 
+​	    (1.3) Forget password 
 
 2. Access Server 
 
-​	(2.1) Add server 
+​	    (2.1) Add server 
 
-​		(2.1.a) Connect 
+​	    	(2.1.a) Connect 
 
-​		(2.1.b) Disconnect
+​	    	(2.1.b) Disconnect
 
-​	(2.2) Deploy Access Server
+​	    (2.2) Deploy Access Server
 
 3. OVPN Profile 
 
-​	(3.1) Import files
+​	    (3.1) Import files
 
 
 
 ### Test cases
-
+----
 
 
  #### 1. Private Tunnel    
