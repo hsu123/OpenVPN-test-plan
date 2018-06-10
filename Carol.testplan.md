@@ -1,46 +1,41 @@
-### Test Plan
+## Test Plan
 
-----
-
-#### Target application
+### Target application
 
 [OpenVPN Connect – Fast & Safe SSL VPN Client](https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=zh_TW)
 
-#### Objectives
+### Objectives
 
 Test the basic function. After pass all test cases, the basic function in this APP could be deliverable.
 
-#### History
+### History
 
 | Version | Date       | Author      | Description of Change |
 | ------- | ---------- | ----------- | --------------------- |
 | 1       | 2018/06/10 | Chia-Yu Hsu | Draft                 |
-|         |            |             |                       |
 
-
-
-#### Scope
+### Scope
 
 Unit Test
 
-####  
+###  
 
 
 
-#### Environment
+## Environment
 
 ----
 
-##### Device
+#### Device
 
 Andrioid 4.3 Nexus 7 (at least)
 
-##### Roles
+#### Roles
 
 * The user with free trail version
 * The user with premium version
 
-##### Other requirements 
+#### Other requirements 
 
 * Accounts for OpenVPN
 
@@ -48,9 +43,7 @@ Andrioid 4.3 Nexus 7 (at least)
 
   
 
-#### Test Features
-
-----
+### Test Features
 
 
 
@@ -92,13 +85,11 @@ Andrioid 4.3 Nexus 7 (at least)
 
 
 
-#### Test cases
-
----
+### Test cases
 
 
 
- ##### 1. Private Tunnel    
+ #### 1. Private Tunnel    
 
 | ID    | Priority | Severity | Steps                                                        | Expected Results                                             |
 | ----- | -------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -115,7 +106,7 @@ Andrioid 4.3 Nexus 7 (at least)
 
 
 
-###### 2. Access Server
+#### 2. Access Server
 
 | ID    | Priority | Severity | Steps                                                        | Expected Results                        |
 | ----- | -------- | -------- | ------------------------------------------------------------ | --------------------------------------- |
@@ -128,7 +119,7 @@ Andrioid 4.3 Nexus 7 (at least)
 
 
 
-###### 2. OVPN Profile
+#### 2. OVPN Profile
 
 | ID   | Priority | Severity | Steps                                                        | Expected Results                                             |
 | ---- | -------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
