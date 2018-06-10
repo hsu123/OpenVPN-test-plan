@@ -8,7 +8,7 @@ Environment Requirements:
             (1) Accounts for OpenVPN
             (2) VPN server
 Devices: 
-        Andrioid 4.3 Nexus 7
+        Android 4.3 Nexus 7
 Roles:
         The user with free trail version
         The user with premium version
@@ -19,7 +19,7 @@ Features to Be Tested:
                     (1.1.a)Connect
                     (1.1.b)Disconnect
                     (1.1.c)Choose VPN Gateway
-                    (1.1.d)Setting-VPN-protocal
+                    (1.1.d)Setting-Vpn-Protocol
                     (1.1.e)Setting-VPN-timeout
                     (1.1.f)Log file
                     (1.1.g)Log out
@@ -35,5 +35,5 @@ Features to Be Tested:
                 (3.1)Import files
 
 Features not to be tested:
-            (1) Intergration testing
+            (1) Integration testing
             (2) Performance testing
